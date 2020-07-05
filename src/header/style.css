@@ -1,0 +1,9 @@
+.header {
+  float: right;
+  margin-bottom: 20px;
+  outline: none; }
+  .header button {
+    cursor: pointer;
+    border: none;
+    border-radius: 2px;
+    padding: 5px 20px 7px; }

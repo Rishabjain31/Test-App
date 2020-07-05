@@ -1,0 +1,23 @@
+.user_info {
+  width: 500px;
+  height: 400px;
+  text-align: center;
+  position: absolute;
+  left: 30%;
+  top: 20%;
+  border-radius: 1px;
+  padding: 25px;
+  background-color: ghostwhite;
+  img {
+    border-radius: 50%;
+    padding-bottom: 20px;
+  }
+  .user_name {
+    font-weight: 500;
+    padding-bottom: 10px;
+    font-size: 28px;
+  }
+  p{
+    color: gray;
+  }
+}
